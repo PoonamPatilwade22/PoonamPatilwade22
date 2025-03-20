@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [https://poonampatilwade.blogspot.com/](https://poonampatilwade.blogspot.com/)
+- 📝 I write articles on [https://poonampatilwade.blogspot.com/](https://poonampatilwade.blogspot.com/)
 
 - 📫 How to reach me **patilwadepoonam002@gmail.com**
 
